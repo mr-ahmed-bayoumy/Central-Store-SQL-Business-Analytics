@@ -27,6 +27,7 @@ The project uses a Star Schema consisting of:
 * **DimOrders** — order dates, shipping dates, shipping mode, and customer references.
 * **DimLocation** — geographic information.
 * **Staging_Superstore** — staging table used during the data preparation process.
+<img width="1055" height="580" alt="Diagram" src="https://github.com/user-attachments/assets/2fa58cda-2bc9-436e-88f7-4851ae1a0c0c" />
 
 ## SQL Techniques Used
 
@@ -57,6 +58,7 @@ The project uses a Star Schema consisting of:
 * Product profitability segmentation
 * Sales and profit by category and sub-category
 * Average discount and profitability analysis
+<img width="479" height="606" alt="3" src="https://github.com/user-attachments/assets/666a0ec1-fa70-41f9-8d38-3aa39c7a59dc" />
 
 ### Customer Analysis
 
@@ -66,23 +68,27 @@ The project uses a Star Schema consisting of:
 * Top customers by sales
 * Top customers by profit
 * Sales and profit by customer segment
+<img width="479" height="606" alt="3" src="https://github.com/user-attachments/assets/5806bbb1-ec8a-404a-81ef-0f74d04e901f" />
 
 ### Geographic Analysis
 
 * Customers by region
 * Regional sales and profitability analysis
+<img width="399" height="603" alt="5" src="https://github.com/user-attachments/assets/87127583-cb75-42ba-bddc-281c8cfc4aab" />
 
 ### Shipping Analysis
 
 * Shipping duration per order
 * Average shipping duration by shipping mode
 * Shipping performance analysis
+<img width="514" height="574" alt="6" src="https://github.com/user-attachments/assets/7b51e17a-cfac-4192-bb63-31348e6d9851" />
 
 ### Time Analysis
 
 * Orders by month
 * Orders by quarter
 * Sales and operational trend analysis
+<img width="585" height="599" alt="7" src="https://github.com/user-attachments/assets/58be5d56-c4a3-468e-806a-194563522bef" />
 
 ## Advanced SQL Components
 
@@ -127,6 +133,7 @@ The analysis can support business decisions related to:
 * Regional sales strategy.
 * Shipping and logistics optimization.
 * Seasonal planning and performance monitoring.
+<img width="1536" height="1024" alt="Business Insights   Recommendation" src="https://github.com/user-attachments/assets/f5524db2-b5bc-472e-bf40-a0490886933c" />
 
 ## Tools
 
