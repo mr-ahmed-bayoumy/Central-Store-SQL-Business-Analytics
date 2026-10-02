@@ -6,7 +6,7 @@ An advanced SQL Server data warehouse and business analytics project built using
 
 The project transforms a denormalized retail dataset into a relational analytical database using a Star Schema, then applies SQL queries and analytical techniques to evaluate sales, profitability, customer behavior, product performance, geographic performance, shipping efficiency, and sales trends.
 
-## Objectives
+## 📌 Objectives
 
 * Normalize the operational dataset into fact and dimension tables.
 * Build a Star Schema for analytical reporting.
@@ -17,7 +17,7 @@ The project transforms a denormalized retail dataset into a relational analytica
 * Identify sales trends over time.
 * Apply advanced SQL techniques for business analysis.
 
-## Data Warehouse Design
+## 🏗️ Data Warehouse Design
 
 The project uses a Star Schema consisting of:
 
@@ -29,7 +29,7 @@ The project uses a Star Schema consisting of:
 * **Staging_Superstore** — staging table used during the data preparation process.
 <img width="1055" height="580" alt="Diagram" src="https://github.com/user-attachments/assets/2fa58cda-2bc9-436e-88f7-4851ae1a0c0c" />
 
-## SQL Techniques Used
+## 💡 SQL Techniques Used
 
 * SELECT & Aggregations
 * GROUP BY / HAVING
@@ -46,7 +46,7 @@ The project uses a Star Schema consisting of:
 * Data segmentation
 * KPI calculations
 
-## Business Analysis
+## 📈 Business Analysis
 
 ### Product Analysis
 
@@ -135,7 +135,7 @@ The analysis can support business decisions related to:
 * Seasonal planning and performance monitoring.
 <img width="1536" height="1024" alt="Business Insights   Recommendation" src="https://github.com/user-attachments/assets/f5524db2-b5bc-472e-bf40-a0490886933c" />
 
-## Tools
+## 🛠️ Tools
 
 * **SQL Server**
 * **SQL**
